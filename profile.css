@@ -1,0 +1,389 @@
+.mainbox{
+    background-color: F0F0F5;
+}
+.leftbarmenu{
+height: 1000px;
+width: 21%;
+background-color: FFFFFF;
+margin-top: 4.9%;
+margin-left: -21%;
+
+
+
+}
+.title{
+width: 78.57%;
+height: 10%;
+position: absolute;
+right: 0px;
+background-color: FFFFFF;
+padding-left: 10px;
+margin-top: 1px;
+
+}
+.allmenu{
+
+display:flex;
+}
+.profile{
+width: 75%;
+height: 400px;
+position: absolute;
+right: 0px;
+margin-top: 170px;
+margin-right: 25px;
+background-color:ffffff;
+border-radius: 5px;
+padding-bottom: 0px;
+
+}
+.logo{
+background-color: FFFFFF;
+padding-bottom: 26px;
+padding-left: 20px;
+margin-right: 1px;
+width: 18.75%;
+height: 10%;
+margin-top: 1px;
+
+
+
+}
+.logo img{
+margin-left: 30px;
+}
+.signin{
+width: 25px;
+height: 25px;
+border-radius: 50%;
+border: 1px solid black;
+margin-top: 5px;
+}
+.contents{
+list-style: none;
+margin-left: 20px;
+}
+.menuicons{
+margin-left: 10px;
+display: flex;
+}
+.profile img{
+width: 96%;
+height: 60%;
+margin: 2%;
+padding-bottom: 20px;
+
+
+
+
+}
+.subprof img{
+width: 15%;
+height: 30%;
+border-radius: 50%;
+border: 4px solid rgb(255, 255, 255);
+position: absolute;
+bottom: 5px;
+left: 50px;
+
+
+
+}
+.rightbar{
+position: absolute;
+right: 20px;  
+color: blue;
+
+}
+.rightbar img{
+margin-right: 20px;
+}
+.rightbar i{
+margin-right: 20px;
+font-size: 20px;
+
+
+}
+.midpart{
+height: 20px;  
+margin-top: 15px;
+
+
+}
+.midpart i{
+font-size: 30px;
+color:blue
+}
+.button1{
+margin-top: 15px;
+height: 20px;
+width: 500px;
+padding: 15px;
+margin-bottom: 5px;
+margin-left: 5px;
+border-radius: 5px;
+border: 1px solid grey;
+}
+.button1:focus{
+outline: none;
+}
+.user{
+font-weight: bold;
+font-size: 30px;
+position: absolute;
+left: 23%;
+bottom: 25%;;
+}
+.blog{
+display: flex;
+
+}
+.function{
+position: absolute;
+left: 23%;
+bottom: 20%;
+color: gray;
+font-size: 20px;
+}
+.socialmedia{
+position: absolute;
+right: 2%;
+bottom: 20%;
+}
+.socialmedia i{
+margin-right: 10px;
+font-size: 20px;
+color: blue;
+}
+.dashboard{
+font-size: 20px;
+
+}
+.dashboard:hover{
+color: blue;
+}
+.dashboard i:{
+color: blue;   
+
+
+}
+.dashboard a{
+text-decoration: none;
+color:black
+
+}
+.dashboard a:hover{
+color: blue;
+}
+.sublist{
+margin-left: 20px;
+margin-top: 10px;
+}
+.minimizing{
+font-size: 15px;
+color: grey;
+
+}
+.sublist li:hover{
+color: blue;
+}
+.btn1{
+background-color: blue;
+color: white;
+border: none;
+padding: 10px;
+border-radius: 5px;
+padding: 10px 20px;
+position: absolute;
+right: 15%;
+top:10%;
+}
+.btn2{
+background-color: blue;
+color: white;
+border: none;
+padding: 10px;
+border-radius: 5px;
+padding: 10px 20px;
+position: absolute;
+right: 3%;
+top:10%;
+
+}
+.boxtext{
+
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: -5px;
+    
+}
+.bxs{
+width: 19%;
+height: 45%;
+position: absolute;
+right: 55.7%;
+margin-top: 45%;
+margin-right: 30px;
+background-color:ffffff;
+border-radius: 5px;
+padding-bottom: 0px;
+
+
+}
+.bxs img{
+margin-top: 15px;
+margin-left: 10px;
+}
+.bxs2{
+width: 35%;
+height: 40%;
+position: absolute;
+right: 20%;
+margin-top: 45%;
+margin-right: 30px;
+background-color:ffffff;
+border-radius: 5px;
+padding-bottom: 0px;
+border-radius: 4px;
+
+
+}
+.bxs2 img{
+margin-top: 15px;
+margin-left: 18px;
+width: 95%;
+
+}
+.rightbox{
+width: 17.9%;
+height: 423px;
+position: absolute;
+right: 0px;
+margin-top: 45%;
+margin-right: 28px;
+background-color:ffffff;
+border-radius: 5px;
+padding-bottom: 0px;
+
+}
+.comment{
+margin: 10px;
+height: 60%;
+width: 90%;
+margin-left: 5%;
+margin-top: 5%;
+border-radius: 5px;
+
+}
+.comment:hover:focus{
+outline: none;
+
+}
+.comment:focus{
+outline: none;
+}
+.submiting{
+margin-left: 5%;
+
+}
+.submiting i{
+color: gray;
+padding-left: 10px;
+
+}
+.comsub{
+
+background-color: 5AD2C1;
+border: none;
+padding: 5px 5px;
+position:absolute;
+right: 5%;
+color: white;
+text-align: center;
+border-radius: 5px;
+}
+.comsub i{
+color: white;
+}
+.form a{
+text-decoration: none;
+
+}
+.form a:hover{
+color: blue;
+}
+.note{
+    background-color: 05C3FB;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 20%;
+    font-size: 30px;
+    padding: 10px 5px;
+
+    
+
+}
+.inside{
+    display: flex;   
+     margin-top: 10%;
+    margin-left: 4%;
+}
+.itstext{
+    margin-left: 4px;
+
+}
+.post{
+    color: grey;
+
+}
+.subpost{
+    font-size: 30px;
+}
+.secondnote{
+    background-color: E82646;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 20%;
+    font-size: 30px;
+    padding: 10px 5px;
+
+}
+.thirddnote{
+    background-color: 6C5FFC;
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    color: white;
+    border-radius: 20%;
+    font-size: 30px;
+    padding: 10px 5px;
+
+}
+.sawir{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.subposts{
+    font-size: 18px;
+    color: grey;
+
+
+}
+.ciwaan:hover{
+    color: blue;
+}
+.ciwaan{
+    font-size: 18px;
+    
+
+}
+.ciwaan :hover{
+    color: blue;
+    
+}
